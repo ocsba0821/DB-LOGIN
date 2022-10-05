@@ -6,10 +6,10 @@ const static = require('serve-static')
 const pool = mysql.createPool({
     
     connectionLimit : 10,
-    host : '127.0.0.1',
-    user : 'firstuser',
-    password : '123456',
-    database : 'firstdata',
+    host : 
+    user : 
+    password : 
+    database : 
     debug : false
     
 })
